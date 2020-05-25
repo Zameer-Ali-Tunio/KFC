@@ -1,0 +1,114 @@
+#container{
+	height: auto;
+	width: 1024px;
+	margin: auto;
+	border-top : 10px dashed;
+	border-bottom : 10px dashed;
+	border-color: red;
+	
+
+	}
+header{
+	height: 160px;
+	width: 1024px;
+	background-color:white;
+	margin:auto;
+}
+.aside{
+	height: 100px;
+	width: 50%;
+	float: left;}
+.aside img{
+	margin-left: 30px;
+margin-top: 30px;}
+.aside1{
+	height: 100px;
+	width: 50%;
+	float: left;
+	text-align:right;
+	padding-top: 80px;
+	}
+.aside1 ul{
+
+	list-style: none;
+
+}
+.aside1 ul li {
+
+	display: inline;
+		}
+.aside1 ul li a {
+	text-decoration: none;
+	padding: 5px 20px;	 }
+	 nav{
+	 	height: 350px;
+	 	width:1024px;
+	 	background-color:  white;
+	 	
+	 }
+	 nav ul{
+	 	text-decoration: none; }
+	 	nav ul li{
+	 		display: inline;
+	 	}
+	 	nav ul li a{
+	 		text-decoration : none;
+	 		padding:5px 13px;
+	 		color: black;}
+	 		nav ul li a:hover{
+
+	 		text-decoration : underline;
+	 		color: red;
+	 	}
+	 	.aside3{
+	 		height: 38px;
+	 		width: 1024px;
+	 		background-color: white;}
+	 	}
+	 	.aside4{
+	 		height: 250px;
+	 		width:1024px;
+	 		}
+section{
+	height: 400px;
+	width:1024px;
+	}
+	 h2{
+	 	border: 1px solid ;
+	 	text-align:center;
+	 }
+	 .aside5{
+	 	height:250px;
+	 	width: 300px;
+	 	float: left;
+	 	
+
+	 }
+	 .aside6{
+	 	height:250px;
+	 	width: 300px;
+	 	float: left;
+	 		margin-left: 50px;
+
+	 }
+	  .aside7{
+	 	height:250px;
+	 	width: 300px;
+	 	float: left;
+	 	margin-left: 50px;
+
+	 }
+footer{
+	height:400px;
+	width: 1024px;
+}
+.aside8{
+	height: 100px;
+	width:1024px;
+	margin-top: 80px;
+}
+.aside9{
+
+	height: 200px;
+	width: 1024px;}
+}
